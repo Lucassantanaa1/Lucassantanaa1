@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Lucas Santana , tenho 29 anos e sou natural do Salvador-Bahia . Concluindo minha graduação Em Análise e Desenvolvimento De Sistemas na Estácio de Sá . Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu github , trabalho como autonomo e participo de projetos open source. 
+Me chamo Lucas Santana , tenho 30 anos e sou natural do Salvador-Bahia . Concluindo minha graduação Em Análise e Desenvolvimento De Sistemas na Estácio de Sá . Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu github , trabalho como autonomo e participo de projetos open source. 
  
  
 ### 🤖 Linguagens e Tecnologias
